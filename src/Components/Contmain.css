@@ -1,0 +1,30 @@
+#document-btn{
+    font-size: 9px;
+    border: 1px solid rgba(0, 0, 0, 0.402);
+    color: black;
+    height: 25px;
+    padding: 0px 2px;
+    text-transform: capitalize;
+}
+
+ .contmain-con{
+    z-index: 100;
+  
+} 
+.contmain-top{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+.contmain-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contmain-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+
